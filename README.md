@@ -1,4 +1,4 @@
-# Data Quality & Validation Framework (Pro Edition)
+# Data Quality & Validation Framework 
 
 This repository provides a **production-style** data quality framework with
 config-driven rules, reusable validation modules, orchestration, CI, and reporting.
