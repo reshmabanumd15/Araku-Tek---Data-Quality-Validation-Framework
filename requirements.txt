@@ -1,0 +1,6 @@
+pandas
+pyarrow
+yaml
+pytest
+flake8
+boto3

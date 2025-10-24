@@ -1,0 +1,1 @@
+- 2025-10-24 Initial Pro scaffold with large data & validation engine

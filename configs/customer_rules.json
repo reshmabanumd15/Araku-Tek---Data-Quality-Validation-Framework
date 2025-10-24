@@ -1,0 +1,46 @@
+{
+  "table": "customer",
+  "primary_key": [
+    "customer_id"
+  ],
+  "rules": [
+    {
+      "type": "not_null",
+      "columns": [
+        "customer_id",
+        "email",
+        "signup_date"
+      ]
+    },
+    {
+      "type": "unique",
+      "columns": [
+        "customer_id"
+      ]
+    },
+    {
+      "type": "regex",
+      "column": "email",
+      "pattern": "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+    },
+    {
+      "type": "range",
+      "column": "lifetime_value",
+      "min": 0.0,
+      "max": 100000.0
+    },
+    {
+      "type": "domain",
+      "column": "country",
+      "values": [
+        "US",
+        "CA",
+        "UK",
+        "DE",
+        "FR",
+        "AU",
+        "IN"
+      ]
+    }
+  ]
+}

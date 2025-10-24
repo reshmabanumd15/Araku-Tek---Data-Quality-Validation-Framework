@@ -1,0 +1,45 @@
+{
+  "table": "transactions",
+  "primary_key": [
+    "order_id"
+  ],
+  "foreign_keys": [
+    {
+      "columns": [
+        "customer_id"
+      ],
+      "ref_table": "customer",
+      "ref_columns": [
+        "customer_id"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "type": "not_null",
+      "columns": [
+        "order_id",
+        "customer_id",
+        "order_date",
+        "amount"
+      ]
+    },
+    {
+      "type": "unique",
+      "columns": [
+        "order_id"
+      ]
+    },
+    {
+      "type": "range",
+      "column": "amount",
+      "min": 0.0,
+      "max": 500.0
+    },
+    {
+      "type": "regex_date",
+      "column": "order_date",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+- Airflow DAG health and duration
+- Report counts per rule (stored under `reports/<date>/...`)
+- Alerting (extend with SNS/webhook)

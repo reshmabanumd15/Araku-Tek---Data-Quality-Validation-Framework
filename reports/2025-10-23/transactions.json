@@ -1,0 +1,1621 @@
+{
+  "summary": {
+    "not_null": 0,
+    "unique": 0,
+    "range": 470,
+    "regex_date": 0,
+    "foreign_key": 2550
+  },
+  "violations": [
+    {
+      "rule": "range",
+      "rows": [
+        {
+          "order_id": "7817512a-9881-4572-9a1f-33f01752049f",
+          "customer_id": 229979,
+          "order_date": "2025-10-23",
+          "amount": 565.4,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "b9dafa76-bead-4fa5-8678-aac905dfeef6",
+          "customer_id": 235766,
+          "order_date": "2025-10-23",
+          "amount": 547.89,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "259d76ba-964d-450d-aea9-5e39dbadd2dd",
+          "customer_id": 215657,
+          "order_date": "2025-10-23",
+          "amount": 502.28,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "ed15fbb0-c245-4859-a912-d81a14f08001",
+          "customer_id": 221152,
+          "order_date": "2025-10-23",
+          "amount": 515.49,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "437f9467-136d-413a-b611-bf95bc812a9a",
+          "customer_id": 247874,
+          "order_date": "2025-10-23",
+          "amount": 581.34,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "d980969e-225b-482a-b013-8a54124adec4",
+          "customer_id": 213068,
+          "order_date": "2025-10-23",
+          "amount": 515.08,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "71ac91eb-b165-4cd8-a31d-dfc13841563d",
+          "customer_id": 233419,
+          "order_date": "2025-10-23",
+          "amount": 501.1,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "95d8bc1e-5b41-458e-b6fe-328851264f77",
+          "customer_id": 231739,
+          "order_date": "2025-10-23",
+          "amount": 529.0,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "e83861f7-be44-499d-9665-34850953e03e",
+          "customer_id": 207336,
+          "order_date": "2025-10-23",
+          "amount": 592.31,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "659d1d17-5756-42a2-aca4-0e9b09c0dd1d",
+          "customer_id": 234408,
+          "order_date": "2025-10-23",
+          "amount": 562.91,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "9a624810-ce54-4c78-9da2-49969904a368",
+          "customer_id": 232435,
+          "order_date": "2025-10-23",
+          "amount": 505.78,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "82b3219e-92e6-4cf1-b3ac-a77bc0e5495c",
+          "customer_id": 230425,
+          "order_date": "2025-10-23",
+          "amount": -1.67,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "6e2a6690-78b0-441e-a354-b4d842494ecf",
+          "customer_id": 207435,
+          "order_date": "2025-10-23",
+          "amount": 509.82,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "dc1c1f36-0e91-4d16-a105-72cc6e7ef12a",
+          "customer_id": 244553,
+          "order_date": "2025-10-23",
+          "amount": 577.25,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "75dc8231-bccf-48e8-bc13-5f8cee9b80fe",
+          "customer_id": 205980,
+          "order_date": "2025-10-23",
+          "amount": 543.02,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "f9705b1d-8d62-4a4a-ba68-6e31ea6c8c1b",
+          "customer_id": 200207,
+          "order_date": "2025-10-23",
+          "amount": 560.59,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "06ec26be-502d-40b9-8b81-edc985145c18",
+          "customer_id": 231914,
+          "order_date": "2025-10-23",
+          "amount": 536.09,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "75b4ee1f-6c87-4fec-8dad-821bac26be54",
+          "customer_id": 215114,
+          "order_date": "2025-10-23",
+          "amount": 539.71,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "5d8f43ec-bd35-49e0-ab49-832ec2ebf2b2",
+          "customer_id": 233664,
+          "order_date": "2025-10-23",
+          "amount": 564.94,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "8933fadf-4b1d-4209-812a-3147281aad0c",
+          "customer_id": 218758,
+          "order_date": "2025-10-23",
+          "amount": 540.98,
+          "payment_method": "paypal",
+          "channel": "android"
+        },
+        {
+          "order_id": "be5ccb3c-fdce-40d2-8634-58ddf8be374a",
+          "customer_id": 239725,
+          "order_date": "2025-10-23",
+          "amount": 541.03,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "175f6bec-f5bc-40df-8d84-04d449a356f6",
+          "customer_id": 206861,
+          "order_date": "2025-10-23",
+          "amount": 550.95,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "92f43a97-b631-488c-be46-3a8272e1d368",
+          "customer_id": 216502,
+          "order_date": "2025-10-23",
+          "amount": 519.66,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "2f6075e2-cfa6-46ba-b858-5363e296911a",
+          "customer_id": 226062,
+          "order_date": "2025-10-23",
+          "amount": 536.85,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "1773e508-dcc5-4051-8db1-dee4ccb1c342",
+          "customer_id": 235898,
+          "order_date": "2025-10-23",
+          "amount": 569.23,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "fe206d93-2b3d-4f0d-a1d3-725e115ad5fc",
+          "customer_id": 218602,
+          "order_date": "2025-10-23",
+          "amount": 535.52,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "5703d7ac-4cdb-4f1f-9fc3-d25bef1e71f7",
+          "customer_id": 242186,
+          "order_date": "2025-10-23",
+          "amount": 528.77,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "53d9fe21-5077-40b0-9535-50299868d591",
+          "customer_id": 246354,
+          "order_date": "2025-10-23",
+          "amount": 589.44,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "0fcadd76-6168-4639-a585-69b0a655e444",
+          "customer_id": 203799,
+          "order_date": "2025-10-23",
+          "amount": 545.54,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "90968b1c-c815-42be-ba55-5cbb484ebb70",
+          "customer_id": 226745,
+          "order_date": "2025-10-23",
+          "amount": 520.04,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "9281d9b7-5447-43ff-912f-b850c8dff5ab",
+          "customer_id": 241415,
+          "order_date": "2025-10-23",
+          "amount": 549.46,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "87c467c7-2413-4baa-8f44-ee6a24d9a8fd",
+          "customer_id": 203203,
+          "order_date": "2025-10-23",
+          "amount": 555.33,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "96e5f388-557a-40ec-a1dd-c9a7f92f4805",
+          "customer_id": 202679,
+          "order_date": "2025-10-23",
+          "amount": -4.55,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "7906555e-5510-4666-a65d-1885eb9704bf",
+          "customer_id": 206020,
+          "order_date": "2025-10-23",
+          "amount": 505.0,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "9a6a0d65-d036-477d-b31d-368ca7e773e5",
+          "customer_id": 211373,
+          "order_date": "2025-10-23",
+          "amount": 525.26,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "ac06cddb-bd90-4bea-ad5c-603a5b951395",
+          "customer_id": 239277,
+          "order_date": "2025-10-23",
+          "amount": 565.22,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "48a840bf-df6b-4286-9c9b-5609c6f7a832",
+          "customer_id": 214979,
+          "order_date": "2025-10-23",
+          "amount": 514.56,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "402a2541-0f90-464c-81b6-566bd22dc3a4",
+          "customer_id": 221734,
+          "order_date": "2025-10-23",
+          "amount": 504.57,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "c2c6122a-ca76-462d-beb7-7c3e0cf6bbf8",
+          "customer_id": 245811,
+          "order_date": "2025-10-23",
+          "amount": 516.3,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "b02d4629-8b3c-4bb0-bedd-d66ca90b459d",
+          "customer_id": 235815,
+          "order_date": "2025-10-23",
+          "amount": 586.21,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "78222421-d3d3-4c67-96c1-509f38b144ad",
+          "customer_id": 245444,
+          "order_date": "2025-10-23",
+          "amount": 520.86,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "3be6e850-1923-4604-b707-c93ae7b03fdb",
+          "customer_id": 241008,
+          "order_date": "2025-10-23",
+          "amount": 503.02,
+          "payment_method": "paypal",
+          "channel": "android"
+        },
+        {
+          "order_id": "ccd59351-44d7-4fa0-99ef-28a54f813a3d",
+          "customer_id": 223641,
+          "order_date": "2025-10-23",
+          "amount": 549.02,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "ed3d3383-221a-4e86-9117-4a2784a72ea7",
+          "customer_id": 223464,
+          "order_date": "2025-10-23",
+          "amount": 567.45,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "c595f023-1aa5-4091-8cce-48d08f38bb9b",
+          "customer_id": 207629,
+          "order_date": "2025-10-23",
+          "amount": 588.91,
+          "payment_method": "paypal",
+          "channel": "android"
+        },
+        {
+          "order_id": "eed0a96d-66a2-4e6d-9635-4e24f2232dd4",
+          "customer_id": 229502,
+          "order_date": "2025-10-23",
+          "amount": 593.62,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "63656ad4-7b0f-4ff5-8921-97735e41a3de",
+          "customer_id": 207819,
+          "order_date": "2025-10-23",
+          "amount": 566.14,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "3c5dc781-db66-4a5e-96da-00eafb1ebf48",
+          "customer_id": 239164,
+          "order_date": "2025-10-23",
+          "amount": 580.89,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "4473ab87-bb60-4ea4-9de1-08bdeee01c9b",
+          "customer_id": 230946,
+          "order_date": "2025-10-23",
+          "amount": 536.98,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "23e80498-3d46-45b9-86e4-0d437dbacd1b",
+          "customer_id": 200013,
+          "order_date": "2025-10-23",
+          "amount": 592.45,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "2b4d8e6d-7466-4ec9-b75d-a28f528a4847",
+          "customer_id": 210959,
+          "order_date": "2025-10-23",
+          "amount": 521.43,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "14f4bee9-f1e7-43c9-b06a-76f6261afaa5",
+          "customer_id": 243968,
+          "order_date": "2025-10-23",
+          "amount": 584.91,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "4bbbbe05-bf57-47d6-9afa-d9af0bb9a194",
+          "customer_id": 201383,
+          "order_date": "2025-10-23",
+          "amount": 595.34,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "ab3d9f4d-f634-4187-9cff-bdda946175dd",
+          "customer_id": 210402,
+          "order_date": "2025-10-23",
+          "amount": 533.77,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "8756d68c-4507-4dfa-bb51-b361c3c602b5",
+          "customer_id": 241483,
+          "order_date": "2025-10-23",
+          "amount": 582.7,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "731d6367-5685-4357-a87f-960546c14f6d",
+          "customer_id": 233476,
+          "order_date": "2025-10-23",
+          "amount": 596.97,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "0af29cf2-a1f3-4090-88db-a1d7154e1b64",
+          "customer_id": 218883,
+          "order_date": "2025-10-23",
+          "amount": 537.01,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "bd697494-8005-4490-9a58-2606886a5b2f",
+          "customer_id": 216548,
+          "order_date": "2025-10-23",
+          "amount": 578.5,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "925f26b4-169c-4579-9db9-cb67db5ba755",
+          "customer_id": 200729,
+          "order_date": "2025-10-23",
+          "amount": 578.8,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "aa4b63b8-281a-4266-bd45-669f0416c3bc",
+          "customer_id": 212764,
+          "order_date": "2025-10-23",
+          "amount": 514.71,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "a11903c8-532a-4fcb-bb77-99c47ce23eed",
+          "customer_id": 210366,
+          "order_date": "2025-10-23",
+          "amount": 569.86,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "3eec6bd9-343a-406e-a2db-dd4a92eb97a7",
+          "customer_id": 200306,
+          "order_date": "2025-10-23",
+          "amount": 590.56,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "6f864878-950d-4418-9692-8442585132e0",
+          "customer_id": 219194,
+          "order_date": "2025-10-23",
+          "amount": 514.38,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "430777ad-84c7-4622-b1a5-f7afd08901d1",
+          "customer_id": 238045,
+          "order_date": "2025-10-23",
+          "amount": 574.33,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "69b3688c-a0d6-461b-b90c-bcd4ac99104c",
+          "customer_id": 217270,
+          "order_date": "2025-10-23",
+          "amount": 544.95,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "68c0fd85-a132-47d6-bc81-0abb70a6b169",
+          "customer_id": 248784,
+          "order_date": "2025-10-23",
+          "amount": 543.85,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "dfb588b5-9463-4fd4-ab87-c42ae085f651",
+          "customer_id": 219683,
+          "order_date": "2025-10-23",
+          "amount": 542.63,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "2e25fb07-d6c8-45d2-9b02-f5fe79069477",
+          "customer_id": 236854,
+          "order_date": "2025-10-23",
+          "amount": 530.37,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "12a61b62-58db-4ddb-9d35-44c584bf50b4",
+          "customer_id": 221468,
+          "order_date": "2025-10-23",
+          "amount": 588.79,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "84dee378-cc35-4669-90fa-347a0db26a43",
+          "customer_id": 201911,
+          "order_date": "2025-10-23",
+          "amount": 516.53,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "66d18c14-b135-4baa-a659-37f8f8325d66",
+          "customer_id": 232346,
+          "order_date": "2025-10-23",
+          "amount": 588.55,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "ee6122bc-748c-449a-b34d-d2f61f864f54",
+          "customer_id": 213075,
+          "order_date": "2025-10-23",
+          "amount": 543.57,
+          "payment_method": "paypal",
+          "channel": "android"
+        },
+        {
+          "order_id": "18683a5d-817d-4cb1-8039-405974913340",
+          "customer_id": 207721,
+          "order_date": "2025-10-23",
+          "amount": 501.8,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "809f8955-53c8-411d-bfb0-fb26826b435a",
+          "customer_id": 238743,
+          "order_date": "2025-10-23",
+          "amount": 563.86,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "286c6862-9c53-45da-a551-e7bfb81270ba",
+          "customer_id": 247638,
+          "order_date": "2025-10-23",
+          "amount": 591.16,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "d74b8c6f-7c31-4344-8eeb-a00f289b8f57",
+          "customer_id": 218334,
+          "order_date": "2025-10-23",
+          "amount": 537.11,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "72602113-fa0a-4747-9ea4-e7b75275828f",
+          "customer_id": 231376,
+          "order_date": "2025-10-23",
+          "amount": 577.84,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "a2dc5238-628b-4bff-a061-8e5f20a1e279",
+          "customer_id": 239502,
+          "order_date": "2025-10-23",
+          "amount": 595.72,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "9d9c465d-ee23-472b-89ef-a20d587fa1f7",
+          "customer_id": 233463,
+          "order_date": "2025-10-23",
+          "amount": 596.9,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "b5715be1-ef0e-45e2-a439-a546f4929fab",
+          "customer_id": 202686,
+          "order_date": "2025-10-23",
+          "amount": 563.36,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "9a111134-c7c8-4e7a-815b-3e5643a89945",
+          "customer_id": 244861,
+          "order_date": "2025-10-23",
+          "amount": 582.47,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "81dcdd5d-3594-41ca-a835-d26a191d298e",
+          "customer_id": 244063,
+          "order_date": "2025-10-23",
+          "amount": 531.31,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "b7ec8c65-7def-459c-86f5-d1f4b25b0897",
+          "customer_id": 221997,
+          "order_date": "2025-10-23",
+          "amount": 573.14,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "2c6236b2-01bd-4575-a892-e2a22722d5a5",
+          "customer_id": 226260,
+          "order_date": "2025-10-23",
+          "amount": 547.46,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "ba31baf4-a177-41e2-82d1-36fbf0e68e54",
+          "customer_id": 240860,
+          "order_date": "2025-10-23",
+          "amount": 534.31,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "f2bb6718-c722-4b42-bd9a-a7b163276f26",
+          "customer_id": 219476,
+          "order_date": "2025-10-23",
+          "amount": 588.41,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "aa118df6-9436-419c-8303-58587abe7076",
+          "customer_id": 212151,
+          "order_date": "2025-10-23",
+          "amount": 594.88,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "e268d0da-b905-4fbf-87fa-e270f24e3be6",
+          "customer_id": 210389,
+          "order_date": "2025-10-23",
+          "amount": -0.51,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "7469474d-b8f3-415c-86da-3de0a6d9a783",
+          "customer_id": 236883,
+          "order_date": "2025-10-23",
+          "amount": 583.58,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "900e4764-58ca-40a6-8236-76003a33f2e4",
+          "customer_id": 206192,
+          "order_date": "2025-10-23",
+          "amount": 515.77,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "66db7f0b-78bf-4923-9308-ee67c67fce3d",
+          "customer_id": 211084,
+          "order_date": "2025-10-23",
+          "amount": 576.47,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "7c327ac4-9875-464a-9d46-784983b8285c",
+          "customer_id": 225477,
+          "order_date": "2025-10-23",
+          "amount": 591.28,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "4c9389cf-ac78-466c-ae58-37cb26f1ba5e",
+          "customer_id": 245241,
+          "order_date": "2025-10-23",
+          "amount": 584.1,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "9e2142b4-bd9f-4b1e-9a58-22cb089a4a69",
+          "customer_id": 240994,
+          "order_date": "2025-10-23",
+          "amount": 530.65,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "a472e0e7-5f53-48eb-8410-b7f6a67565fb",
+          "customer_id": 222786,
+          "order_date": "2025-10-23",
+          "amount": 513.24,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "79302965-0bac-4108-8e34-bbfca0d2a802",
+          "customer_id": 218975,
+          "order_date": "2025-10-23",
+          "amount": 505.01,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "52b7f473-8d70-4e79-8d7a-07522f6051c5",
+          "customer_id": 201425,
+          "order_date": "2025-10-23",
+          "amount": 585.88,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "862832dc-b0ff-4605-8682-39e64dca3bbf",
+          "customer_id": 228004,
+          "order_date": "2025-10-23",
+          "amount": 524.27,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "e37c6760-3125-4b3a-ba8a-a70df6a57905",
+          "customer_id": 248828,
+          "order_date": "2025-10-23",
+          "amount": 503.96,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "b2b43aae-5fe7-4195-8389-fad2f130f398",
+          "customer_id": 200590,
+          "order_date": "2025-10-23",
+          "amount": 541.21,
+          "payment_method": "card",
+          "channel": "android"
+        }
+      ]
+    },
+    {
+      "rule": "foreign_key",
+      "rows": [
+        {
+          "order_id": "1c512c1d-aecf-42ce-bfbd-e3e8afd20d4a",
+          "customer_id": 225849,
+          "order_date": "2025-10-23",
+          "amount": 394.11,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "092ec27d-8db4-4d25-8039-d4e2e7ca467e",
+          "customer_id": 222281,
+          "order_date": "2025-10-23",
+          "amount": 93.94,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "1a25ecaf-b5b0-4338-9040-2b81b77c6ab3",
+          "customer_id": 248402,
+          "order_date": "2025-10-23",
+          "amount": 457.24,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "26f6dc12-d507-4705-8d94-ddd919d0333d",
+          "customer_id": 212582,
+          "order_date": "2025-10-23",
+          "amount": 456.18,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "45d8a01f-650b-4165-86e0-bd082b19b8f3",
+          "customer_id": 224343,
+          "order_date": "2025-10-23",
+          "amount": 204.67,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "0b1c1fd0-0b97-476d-93fd-e61ceab88cbe",
+          "customer_id": 203719,
+          "order_date": "2025-10-23",
+          "amount": 48.65,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "c4a97a9e-29d9-4bc4-96d2-bdc92daa279b",
+          "customer_id": 207712,
+          "order_date": "2025-10-23",
+          "amount": 45.21,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "3f587754-52dc-40a5-a74b-3db9a2077833",
+          "customer_id": 209049,
+          "order_date": "2025-10-23",
+          "amount": 292.76,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "c57c1c6d-6635-4b6a-bafd-6b2f48013c91",
+          "customer_id": 246865,
+          "order_date": "2025-10-23",
+          "amount": 493.73,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "3254f9a3-628a-456c-86c8-2ac3a522a305",
+          "customer_id": 200610,
+          "order_date": "2025-10-23",
+          "amount": 432.5,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "addec6b7-09c4-4156-ba88-08e854e1caf0",
+          "customer_id": 202707,
+          "order_date": "2025-10-23",
+          "amount": 343.94,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "57f48c4c-baab-4774-9d01-24a629c1fac4",
+          "customer_id": 221850,
+          "order_date": "2025-10-23",
+          "amount": 163.06,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "c730b150-ca86-4d87-828b-741c3f91ae94",
+          "customer_id": 217584,
+          "order_date": "2025-10-23",
+          "amount": 162.59,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "0c9bda10-9b51-49d5-a756-4f5dfc453237",
+          "customer_id": 201448,
+          "order_date": "2025-10-23",
+          "amount": 20.8,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "7817512a-9881-4572-9a1f-33f01752049f",
+          "customer_id": 229979,
+          "order_date": "2025-10-23",
+          "amount": 565.4,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "3bb3056a-0f86-42df-a3db-6cdd2964ae26",
+          "customer_id": 210534,
+          "order_date": "2025-10-23",
+          "amount": 112.54,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "7dec4495-821f-4099-af5b-0b6a42bf74ad",
+          "customer_id": 215089,
+          "order_date": "2025-10-23",
+          "amount": 346.27,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "01e03e23-ab9b-4298-9038-6e11f5ab68fb",
+          "customer_id": 224280,
+          "order_date": "2025-10-23",
+          "amount": 233.81,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "e6d648ee-985a-43a6-81e5-a0b0ee6810dd",
+          "customer_id": 238861,
+          "order_date": "2025-10-23",
+          "amount": 450.54,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "d4d29eee-e238-408b-a6d6-56d89e4bf212",
+          "customer_id": 222678,
+          "order_date": "2025-10-23",
+          "amount": 474.61,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "7f55e9e6-56de-4557-a932-2e133efe19bb",
+          "customer_id": 209538,
+          "order_date": "2025-10-23",
+          "amount": 115.93,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "9cba0041-ccbb-4e77-9399-b2136f5bbd65",
+          "customer_id": 230206,
+          "order_date": "2025-10-23",
+          "amount": 195.76,
+          "payment_method": "paypal",
+          "channel": "android"
+        },
+        {
+          "order_id": "c3d1ea1f-7bc1-4b39-be6c-2c936c437b14",
+          "customer_id": 248431,
+          "order_date": "2025-10-23",
+          "amount": 493.3,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "7e112d71-23f5-435f-bca1-a897184e6d16",
+          "customer_id": 225031,
+          "order_date": "2025-10-23",
+          "amount": 487.32,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "ce74852f-432a-4331-a751-7e1d7776dc91",
+          "customer_id": 212168,
+          "order_date": "2025-10-23",
+          "amount": 354.8,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "4a1f252f-b8a2-4032-8833-0a6f965cb034",
+          "customer_id": 246591,
+          "order_date": "2025-10-23",
+          "amount": 454.6,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "74a63b9c-6f0b-4c2c-aa9f-29e74deada32",
+          "customer_id": 226961,
+          "order_date": "2025-10-23",
+          "amount": 296.22,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "9229a1d5-476c-4c48-bbc5-5c079ab2b779",
+          "customer_id": 214010,
+          "order_date": "2025-10-23",
+          "amount": 486.51,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "b9dafa76-bead-4fa5-8678-aac905dfeef6",
+          "customer_id": 235766,
+          "order_date": "2025-10-23",
+          "amount": 547.89,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "ac88db81-2ff5-44a8-879c-e6894d75014f",
+          "customer_id": 242060,
+          "order_date": "2025-10-23",
+          "amount": 111.57,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "0145dff8-3ab4-47b9-bba5-ef86d316d993",
+          "customer_id": 211735,
+          "order_date": "2025-10-23",
+          "amount": 342.3,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "1be75b4d-ed78-4cce-aa14-038585e87156",
+          "customer_id": 222499,
+          "order_date": "2025-10-23",
+          "amount": 87.26,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "37e9b06f-dbc1-4fcb-94e3-3ff8a9b0be60",
+          "customer_id": 240513,
+          "order_date": "2025-10-23",
+          "amount": 434.14,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "c3667d49-def7-417f-9911-1b79389a1e00",
+          "customer_id": 248753,
+          "order_date": "2025-10-23",
+          "amount": 241.38,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "73db5cde-7d46-42c4-bce8-07250ce4bae9",
+          "customer_id": 900324,
+          "order_date": "2025-10-23",
+          "amount": 408.12,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "d0400615-b6eb-4c9d-b46b-955ce9b92653",
+          "customer_id": 208951,
+          "order_date": "2025-10-23",
+          "amount": 444.98,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "259d76ba-964d-450d-aea9-5e39dbadd2dd",
+          "customer_id": 215657,
+          "order_date": "2025-10-23",
+          "amount": 502.28,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "7aaf0a39-9d04-4516-a26f-241ecf0b5efb",
+          "customer_id": 236365,
+          "order_date": "2025-10-23",
+          "amount": 459.86,
+          "payment_method": "paypal",
+          "channel": "android"
+        },
+        {
+          "order_id": "2c8fc566-a5a2-4eb9-b2f0-079bccc0a73b",
+          "customer_id": 213819,
+          "order_date": "2025-10-23",
+          "amount": 496.76,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "fc8468b4-c823-4738-b88b-7d3f0e0570aa",
+          "customer_id": 202334,
+          "order_date": "2025-10-23",
+          "amount": 369.33,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "0ee55003-cb9a-427c-a4bf-915f2ecb4a99",
+          "customer_id": 221188,
+          "order_date": "2025-10-23",
+          "amount": 194.15,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "cc1bb52f-7c97-494b-837d-e84bd41557f0",
+          "customer_id": 203807,
+          "order_date": "2025-10-23",
+          "amount": 151.11,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "ed15fbb0-c245-4859-a912-d81a14f08001",
+          "customer_id": 221152,
+          "order_date": "2025-10-23",
+          "amount": 515.49,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "4f919444-d5a5-4c9a-adf1-9bcfdaf2ab84",
+          "customer_id": 211639,
+          "order_date": "2025-10-23",
+          "amount": 348.69,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "437f9467-136d-413a-b611-bf95bc812a9a",
+          "customer_id": 247874,
+          "order_date": "2025-10-23",
+          "amount": 581.34,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "9cef0280-8e09-4e1a-a37d-402912bdaefe",
+          "customer_id": 210752,
+          "order_date": "2025-10-23",
+          "amount": 436.03,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "d980969e-225b-482a-b013-8a54124adec4",
+          "customer_id": 213068,
+          "order_date": "2025-10-23",
+          "amount": 515.08,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "529f2820-a3fb-4678-b0d3-e03bc7a65e87",
+          "customer_id": 224459,
+          "order_date": "2025-10-23",
+          "amount": 0.52,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "da8d1094-7765-4105-a2db-e53473491c27",
+          "customer_id": 214218,
+          "order_date": "2025-10-23",
+          "amount": 360.92,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "4464aee0-a5a0-48be-9de0-2ae3a1fdb256",
+          "customer_id": 223621,
+          "order_date": "2025-10-23",
+          "amount": 471.06,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "22f9693c-35da-47fb-9029-9c6a17e3b53a",
+          "customer_id": 211474,
+          "order_date": "2025-10-23",
+          "amount": 344.3,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "71ac91eb-b165-4cd8-a31d-dfc13841563d",
+          "customer_id": 233419,
+          "order_date": "2025-10-23",
+          "amount": 501.1,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "9d0b11d2-5459-405f-b992-11d5ae5d4932",
+          "customer_id": 209652,
+          "order_date": "2025-10-23",
+          "amount": 444.45,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "95d8bc1e-5b41-458e-b6fe-328851264f77",
+          "customer_id": 231739,
+          "order_date": "2025-10-23",
+          "amount": 529.0,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "8ced6e77-5c7d-4725-8525-25867dca5b1c",
+          "customer_id": 246370,
+          "order_date": "2025-10-23",
+          "amount": 335.66,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "e83861f7-be44-499d-9665-34850953e03e",
+          "customer_id": 207336,
+          "order_date": "2025-10-23",
+          "amount": 592.31,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "9ed15c2b-69fd-42e5-8517-1ea28c7ebb6f",
+          "customer_id": 224118,
+          "order_date": "2025-10-23",
+          "amount": 299.91,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "3d8a6133-fd57-4856-a592-a485236a7032",
+          "customer_id": 210972,
+          "order_date": "2025-10-23",
+          "amount": 312.58,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "c459fd20-efe7-4d80-8c72-e112b5f270e6",
+          "customer_id": 236243,
+          "order_date": "2025-10-23",
+          "amount": 107.12,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "659d1d17-5756-42a2-aca4-0e9b09c0dd1d",
+          "customer_id": 234408,
+          "order_date": "2025-10-23",
+          "amount": 562.91,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "e3b4c1da-81c6-4562-9789-a41923d0ca59",
+          "customer_id": 225111,
+          "order_date": "2025-10-23",
+          "amount": 432.31,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "5fe15355-a61c-4b5c-9214-066833e2c89f",
+          "customer_id": 226397,
+          "order_date": "2025-10-23",
+          "amount": 195.36,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "9a624810-ce54-4c78-9da2-49969904a368",
+          "customer_id": 232435,
+          "order_date": "2025-10-23",
+          "amount": 505.78,
+          "payment_method": "cash",
+          "channel": "android"
+        },
+        {
+          "order_id": "9c9dbab5-d808-43e7-be46-10bd7e67abcf",
+          "customer_id": 205887,
+          "order_date": "2025-10-23",
+          "amount": 242.68,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "22638e8c-0ab7-44f6-8156-630524d79ccd",
+          "customer_id": 214432,
+          "order_date": "2025-10-23",
+          "amount": 467.34,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "82b3219e-92e6-4cf1-b3ac-a77bc0e5495c",
+          "customer_id": 230425,
+          "order_date": "2025-10-23",
+          "amount": -1.67,
+          "payment_method": "applepay",
+          "channel": "store"
+        },
+        {
+          "order_id": "17173f46-f6c1-4c19-8a18-a0e3c0808fe8",
+          "customer_id": 233175,
+          "order_date": "2025-10-23",
+          "amount": 244.95,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "e91f5905-0af9-4149-8c63-c9951dacf789",
+          "customer_id": 246802,
+          "order_date": "2025-10-23",
+          "amount": 135.64,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "3af2d53c-2785-498a-8740-698634a1ff0c",
+          "customer_id": 226122,
+          "order_date": "2025-10-23",
+          "amount": 442.25,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "09f301dd-c513-4afc-8a9b-0e305ba3f80b",
+          "customer_id": 218656,
+          "order_date": "2025-10-23",
+          "amount": 242.15,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "6e2a6690-78b0-441e-a354-b4d842494ecf",
+          "customer_id": 207435,
+          "order_date": "2025-10-23",
+          "amount": 509.82,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "98630031-e779-4428-8166-b67108bde182",
+          "customer_id": 208286,
+          "order_date": "2025-10-23",
+          "amount": 194.29,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "ac06df1c-de0f-49a5-87be-b20e407e8201",
+          "customer_id": 236654,
+          "order_date": "2025-10-23",
+          "amount": 279.03,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "3b899628-ce4d-4b5d-a08c-ff68ad55a057",
+          "customer_id": 227072,
+          "order_date": "2025-10-23",
+          "amount": 240.19,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "abeee86b-bf39-4ffe-b92f-eaf2aab7d56e",
+          "customer_id": 213772,
+          "order_date": "2025-10-23",
+          "amount": 194.59,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "b7e004de-9e95-46f2-9e37-4ccbe93953c5",
+          "customer_id": 219739,
+          "order_date": "2025-10-23",
+          "amount": 16.91,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "dc1c1f36-0e91-4d16-a105-72cc6e7ef12a",
+          "customer_id": 244553,
+          "order_date": "2025-10-23",
+          "amount": 577.25,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "1b9b6032-a117-4e69-9811-33d1d6143850",
+          "customer_id": 218322,
+          "order_date": "2025-10-23",
+          "amount": 98.68,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "aceb656a-bc35-4e77-b52b-4ea07064b18f",
+          "customer_id": 218974,
+          "order_date": "2025-10-23",
+          "amount": 490.97,
+          "payment_method": "paypal",
+          "channel": "web"
+        },
+        {
+          "order_id": "1e55adfd-6290-4148-a4bb-499c25f3b8d9",
+          "customer_id": 212727,
+          "order_date": "2025-10-23",
+          "amount": 447.93,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "1e64e39d-7244-4826-b7fb-ec777e856dd8",
+          "customer_id": 210783,
+          "order_date": "2025-10-23",
+          "amount": 315.39,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "2a91ecbd-3fb3-41ee-aa31-b55ff07eb063",
+          "customer_id": 236819,
+          "order_date": "2025-10-23",
+          "amount": 111.48,
+          "payment_method": "card",
+          "channel": "store"
+        },
+        {
+          "order_id": "97c037dc-45b4-49b7-8724-f3ec83b7f13b",
+          "customer_id": 244761,
+          "order_date": "2025-10-23",
+          "amount": 114.91,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "74e5cca7-37fb-41b4-b515-a268b1774a35",
+          "customer_id": 220267,
+          "order_date": "2025-10-23",
+          "amount": 245.61,
+          "payment_method": "card",
+          "channel": "web"
+        },
+        {
+          "order_id": "f321fef2-ea44-46e5-9426-88710875e211",
+          "customer_id": 222891,
+          "order_date": "2025-10-23",
+          "amount": 419.09,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "a1c6fa89-24c2-48d2-a726-c993f4ac4f17",
+          "customer_id": 243162,
+          "order_date": "2025-10-23",
+          "amount": 420.37,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "c0c7d2ac-47d4-4a4b-aa56-d86ec2cec5d9",
+          "customer_id": 207852,
+          "order_date": "2025-10-23",
+          "amount": 126.32,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "024f63cc-3d6b-4a06-93ba-0c68a8e82392",
+          "customer_id": 222375,
+          "order_date": "2025-10-23",
+          "amount": 420.76,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "ba07d675-e957-4112-95c3-7321f2ce7c7e",
+          "customer_id": 207112,
+          "order_date": "2025-10-23",
+          "amount": 485.88,
+          "payment_method": "applepay",
+          "channel": "android"
+        },
+        {
+          "order_id": "24b428f2-fbf5-4a55-9fcb-7ca5b0611347",
+          "customer_id": 218869,
+          "order_date": "2025-10-23",
+          "amount": 144.67,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "fa40c85e-5e82-476e-a21e-2b63cd1bff2c",
+          "customer_id": 219874,
+          "order_date": "2025-10-23",
+          "amount": 12.3,
+          "payment_method": "paypal",
+          "channel": "store"
+        },
+        {
+          "order_id": "a83247d7-1009-48a8-8c27-3cd0c9b2b3a4",
+          "customer_id": 208157,
+          "order_date": "2025-10-23",
+          "amount": 114.85,
+          "payment_method": "cash",
+          "channel": "web"
+        },
+        {
+          "order_id": "a3b29854-52e5-4056-a84a-514e5f836ba4",
+          "customer_id": 204480,
+          "order_date": "2025-10-23",
+          "amount": 149.27,
+          "payment_method": "applepay",
+          "channel": "ios"
+        },
+        {
+          "order_id": "75dc8231-bccf-48e8-bc13-5f8cee9b80fe",
+          "customer_id": 205980,
+          "order_date": "2025-10-23",
+          "amount": 543.02,
+          "payment_method": "paypal",
+          "channel": "ios"
+        },
+        {
+          "order_id": "e10225bf-74ce-498b-964f-9619fe24dab9",
+          "customer_id": 231887,
+          "order_date": "2025-10-23",
+          "amount": 451.33,
+          "payment_method": "applepay",
+          "channel": "web"
+        },
+        {
+          "order_id": "d7c9df67-14f3-4616-93ff-06bca9f908c6",
+          "customer_id": 229786,
+          "order_date": "2025-10-23",
+          "amount": 382.2,
+          "payment_method": "cash",
+          "channel": "ios"
+        },
+        {
+          "order_id": "122b8afc-56d3-4049-90e7-16caef3a0b09",
+          "customer_id": 209415,
+          "order_date": "2025-10-23",
+          "amount": 400.74,
+          "payment_method": "card",
+          "channel": "ios"
+        },
+        {
+          "order_id": "9970426d-0faa-4072-9153-fb12f01edb25",
+          "customer_id": 228680,
+          "order_date": "2025-10-23",
+          "amount": 283.67,
+          "payment_method": "cash",
+          "channel": "store"
+        },
+        {
+          "order_id": "2dd16743-4904-4c36-ad75-4050d747a1b1",
+          "customer_id": 212738,
+          "order_date": "2025-10-23",
+          "amount": 261.6,
+          "payment_method": "card",
+          "channel": "android"
+        },
+        {
+          "order_id": "28f97862-f40e-478f-8ba5-10f67a43c2e0",
+          "customer_id": 239724,
+          "order_date": "2025-10-23",
+          "amount": 300.48,
+          "payment_method": "card",
+          "channel": "ios"
+        }
+      ]
+    }
+  ]
+}

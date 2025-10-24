@@ -1,0 +1,5 @@
+- Config-driven rules (JSON/YAML)
+- Core validators (nulls, uniques, regex, ranges, domain, FK)
+- Partition-based execution
+- Report writers (JSON/CSV)
+- Orchestration via Airflow

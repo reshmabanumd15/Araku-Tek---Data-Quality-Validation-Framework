@@ -1,0 +1,10 @@
+{
+  "summary": {
+    "not_null": 0,
+    "unique": 0,
+    "regex": 0,
+    "range": 0,
+    "domain": 0
+  },
+  "violations": []
+}
