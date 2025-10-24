@@ -14,5 +14,3 @@ It ships with large synthetic datasets (customers & transactions) to demo scale.
 - **Power BI** notes + KPI definitions and incremental refresh guidance
 - **CI** (flake8 + pytest) covering rule loaders and core validators
 - **Docs**: kickoff notes, framework design, monitoring, runbooks
-
-> Replace placeholder values (buckets, roles, connections) before deployment.
